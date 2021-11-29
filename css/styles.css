@@ -229,31 +229,87 @@ p.about__container-link {
     margin: 40px auto;
 }
 
-.project__image-one {
-    background: url(../images/img-one.jpg) no-repeat 50% 50%;
+.project__image-integrar-one {
+    background: url(../images/img-integrar_01.jpg) no-repeat 50% 50%;
     background-size: cover;
 }
 
-.project__image-two {
+.project__image-integrar-two {
     position: relative;
     top: -100px;
     left: -260px;
-    background: url(../images/img-two.jpg) no-repeat 50% 50%;
+    background: url(../images/img-integrar_02.jpg) no-repeat 50% 50%;
     background-size: cover;
 }
 
-.project__image-three {
+.project__image-integrar-three {
     position: relative;
     left: 300px;
-    background: url(../images/img-three.jpg) no-repeat 50% 50%;
+    background: url(../images/img-integrar_03.jpg) no-repeat 50% 50%;
     background-size: cover;
 }
 
-.project__image-four {
+.project__image-integrar-four {
     position: relative;
     top: -200px;
     left: -100px;
-    background: url(../images/img-four.jpg) no-repeat 50% 50%;
+    background: url(../images/img-integrar_04.jpg) no-repeat 50% 50%;
+    background-size: cover;
+}
+
+.project__image-jar-one {
+    background: url(../images/img-jar_01.jpg) no-repeat 50% 50%;
+    background-size: cover;
+}
+
+.project__image-jar-two {
+    position: relative;
+    top: -100px;
+    left: -260px;
+    background: url(../images/img-jar_02.jpg) no-repeat 50% 50%;
+    background-size: cover;
+}
+
+.project__image-jar-three {
+    position: relative;
+    left: 300px;
+    background: url(../images/img-jar_03.jpg) no-repeat 50% 50%;
+    background-size: cover;
+}
+
+.project__image-jar-four {
+    position: relative;
+    top: -200px;
+    left: -100px;
+    background: url(../images/img-jar_04.jpg) no-repeat 50% 50%;
+    background-size: cover;
+}
+
+.project__image-thiago-one {
+    background: url(../images/img-thiago_01.jpg) no-repeat 50% 50%;
+    background-size: cover;
+}
+
+.project__image-thiago-two {
+    position: relative;
+    top: -100px;
+    left: -260px;
+    background: url(../images/img-thiago_02.jpg) no-repeat 50% 50%;
+    background-size: cover;
+}
+
+.project__image-thiago-three {
+    position: relative;
+    left: 300px;
+    background: url(../images/img-thiago_03.jpg) no-repeat 50% 50%;
+    background-size: cover;
+}
+
+.project__image-thiago-four {
+    position: relative;
+    top: -200px;
+    left: -100px;
+    background: url(../images/img-thiago_04.jpg) no-repeat 50% 50%;
     background-size: cover;
 }
 
